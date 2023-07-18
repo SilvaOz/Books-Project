@@ -35,7 +35,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application for managing bo
 1. Clone the repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:SilvaOz/Books-Project.git
 ```
 
 ## Install the required dependencies for both frontend and backend.
